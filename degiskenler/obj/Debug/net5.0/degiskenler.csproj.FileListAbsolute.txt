@@ -1,0 +1,16 @@
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.csprojAssemblyReference.cache
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\bin\Debug\net5.0\degiskenler.exe
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\bin\Debug\net5.0\degiskenler.dll
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.dll
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+C:\Users\SYM DMR\Desktop\CSharp_Patika\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
