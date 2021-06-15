@@ -1,0 +1,16 @@
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\bin\Debug\net5.0\csharp_patika_odev1.exe
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\bin\Debug\net5.0\csharp_patika_odev1.deps.json
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\bin\Debug\net5.0\csharp_patika_odev1.runtimeconfig.json
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\bin\Debug\net5.0\csharp_patika_odev1.runtimeconfig.dev.json
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\bin\Debug\net5.0\csharp_patika_odev1.dll
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\bin\Debug\net5.0\ref\csharp_patika_odev1.dll
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\bin\Debug\net5.0\csharp_patika_odev1.pdb
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.csprojAssemblyReference.cache
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.AssemblyInfoInputs.cache
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.AssemblyInfo.cs
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.csproj.CoreCompileInputs.cache
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.dll
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\ref\csharp_patika_odev1.dll
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.pdb
+C:\Users\SYM DMR\Desktop\csharp_patika_odev1\obj\Debug\net5.0\csharp_patika_odev1.genruntimeconfig.cache
