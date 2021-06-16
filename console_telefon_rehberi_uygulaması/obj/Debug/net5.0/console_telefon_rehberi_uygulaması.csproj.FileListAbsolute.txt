@@ -1,0 +1,16 @@
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\bin\Debug\net5.0\console_telefon_rehberi_uygulaması.exe
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\bin\Debug\net5.0\console_telefon_rehberi_uygulaması.deps.json
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\bin\Debug\net5.0\console_telefon_rehberi_uygulaması.runtimeconfig.json
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\bin\Debug\net5.0\console_telefon_rehberi_uygulaması.runtimeconfig.dev.json
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\bin\Debug\net5.0\console_telefon_rehberi_uygulaması.dll
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\bin\Debug\net5.0\ref\console_telefon_rehberi_uygulaması.dll
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\bin\Debug\net5.0\console_telefon_rehberi_uygulaması.pdb
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.csprojAssemblyReference.cache
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.AssemblyInfoInputs.cache
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.AssemblyInfo.cs
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.dll
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\ref\console_telefon_rehberi_uygulaması.dll
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.pdb
+C:\Users\SYM DMR\Desktop\console_telefon_rehberi_uygulaması\obj\Debug\net5.0\console_telefon_rehberi_uygulaması.genruntimeconfig.cache
